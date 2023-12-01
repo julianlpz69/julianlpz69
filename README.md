@@ -1,6 +1,6 @@
 # Hola, soy Julian Jose Lopez Arellano
 
-## Desarrollador Web Backend | .NET Core Enthusiast 🚀
+## Desarrollador Web | Apasionado por Tecnologías Backend 🚀
 
 ¡Bienvenido a mi GitHub! Soy un apasionado desarrollador web con un enfoque especializado en el backend, utilizando la potencia de mis diferentes conocmientos para crear soluciones robustas y eficientes. Mi amor por la resolución de problemas y la construcción de sistemas escalables me impulsa a explorar continuamente nuevas tecnologías y mejores prácticas en el mundo del desarrollo.
 
