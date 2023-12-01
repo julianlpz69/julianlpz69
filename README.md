@@ -13,7 +13,7 @@
 - **Optimización de Rendimiento:** Identificar y abordar cuellos de botella de rendimiento en la lógica del servidor y las consultas de la base de datos.
 
 
-### Habilidades y Herramientas 🚀
+### Principales Habilidades y Herramientas 🚀
 
 - **Lenguajes:** C#, .NET Core, SQL, Angular, Javascript, Node JS, Python
 - **Herramientas:** Visual Studio, Git, Postman
