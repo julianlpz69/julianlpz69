@@ -18,6 +18,13 @@
 - **Herramientas:** Visual Studio, Git, Postman
 - **Metodologías:** Desarrollo ágil, SCRUM
 
+### Competencias 🚀
+
+- **Trabajo en equipo**
+- **Adaptabilidad**
+- **Comunicación efectiva**
+- **Liderazgo**
+- **Gestión del tiempo**
 
 ### Contacto 📫
 
