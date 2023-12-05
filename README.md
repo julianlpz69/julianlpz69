@@ -29,6 +29,4 @@
 
 ### Contacto 📫
 
-¡Estoy siempre abierto a colaboraciones emocionantes y nuevas oportunidades! No dudes en contactarme a través de [correo electrónico](mailto:tu@email.com) o [LinkedIn](https://www.linkedin.com/in/tuusuario/).
-
-¡
+¡Estoy siempre abierto a colaboraciones emocionantes y nuevas oportunidades! No dudes en contactarme a través de mi Email julianjoselpz2019@gmail.com o whatsapp (+57) 3132419753 
